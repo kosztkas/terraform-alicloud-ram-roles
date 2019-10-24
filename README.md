@@ -1,10 +1,13 @@
 Alicloud RAM Role Creation Terraform Module
 ===
 
-Terraform module which adds list of roles with SSO trust policy 
+Terraform module which adds list of roles with SSO trust policy
+
 It assumes that you have RAM enabled already and set up an IdP for Role-based SSO
 
-2. Setting values for the following variables in the variables file or through the environment variables:
+Usage
+-------
+Setting values for the following variables in the variables file or through the environment variables:
 
     - ALICLOUD_ACCESS_KEY
     - ALICLOUD_SECRET_KEY
