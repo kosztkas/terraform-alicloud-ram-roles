@@ -8,7 +8,6 @@ It assumes that you have RAM enabled already and set up an IdP for Role-based SS
 Usage
 -------
 Setting values for the following variables in the variables file or through the environment variables:
-
     - ALICLOUD_ACCESS_KEY
     - ALICLOUD_SECRET_KEY
     - the list of Rolenames
